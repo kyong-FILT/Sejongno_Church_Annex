@@ -1,1 +1,0 @@
-# Sejongno_Church_Annex
