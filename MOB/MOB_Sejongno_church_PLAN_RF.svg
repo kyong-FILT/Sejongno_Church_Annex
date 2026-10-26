@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="RF" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        stroke-width: .4px;
+      }
+
+      .cls-4 {
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <g id="LWPOLYLINE">
+    <polyline class="cls-4" points="449.31 529.04 449.31 346.57 225.52 346.57 225.52 529.04"/>
+  </g>
+  <g id="LWPOLYLINE-2" data-name="LWPOLYLINE">
+    <polyline class="cls-4" points="448.46 529.04 448.46 347.42 226.37 347.42 226.37 529.04"/>
+  </g>
+  <g id="LWPOLYLINE-3" data-name="LWPOLYLINE">
+    <polyline class="cls-4" points="464.76 539.67 969.61 539.67 969.61 354 970.46 354 970.46 540.52 464.76 540.52"/>
+  </g>
+  <g id="LWPOLYLINE-4" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="835" y1="351.87" x2="835" y2="506.73"/>
+  </g>
+  <g id="LWPOLYLINE-5" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="845.2" y="352.72" width="93.03" height="154.01"/>
+  </g>
+  <g id="LWPOLYLINE-6" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="824.79" y1="351.87" x2="824.79" y2="506.73"/>
+  </g>
+  <g id="LWPOLYLINE-7" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="814.59" y1="351.87" x2="814.59" y2="506.73"/>
+  </g>
+  <g id="LWPOLYLINE-8" data-name="LWPOLYLINE">
+    <polyline class="cls-4" points="845.2 506.73 814.59 506.73 814.59 539.67"/>
+  </g>
+  <g id="LWPOLYLINE-9" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="771.61" y="513.59" width="34.02" height="17.01"/>
+  </g>
+  <g id="LWPOLYLINE-10" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="733.34" y="513.59" width="34.02" height="17.01"/>
+  </g>
+  <g id="LWPOLYLINE-11" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="695.5" y="513.59" width="34.02" height="17.01"/>
+  </g>
+  <g id="LWPOLYLINE-12" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="657.23" y="513.59" width="34.02" height="17.01"/>
+  </g>
+  <g id="LWPOLYLINE-13" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="619.39" y="513.59" width="34.02" height="17.01"/>
+  </g>
+  <g id="LWPOLYLINE-14" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="847.75" y="355.28" width="87.93" height="148.9"/>
+  </g>
+  <g id="LINE">
+    <line class="cls-4" x1="214.18" y1="504.8" x2="168.68" y2="504.8"/>
+  </g>
+  <g id="LINE-2" data-name="LINE">
+    <line class="cls-4" x1="214.18" y1="513.31" x2="168.68" y2="513.31"/>
+  </g>
+  <g id="LINE-3" data-name="LINE">
+    <line class="cls-4" x1="214.18" y1="521.81" x2="168.68" y2="521.81"/>
+  </g>
+  <g id="LWPOLYLINE-15" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="616.21" x2="172.37" y2="616.21"/>
+  </g>
+  <g id="LWPOLYLINE-16" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="624.71" x2="172.37" y2="624.71"/>
+  </g>
+  <g id="LWPOLYLINE-17" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="633.21" x2="172.37" y2="633.21"/>
+  </g>
+  <g id="LWPOLYLINE-18" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="641.72" x2="172.37" y2="641.72"/>
+  </g>
+  <g id="LWPOLYLINE-19" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="650.22" x2="172.37" y2="650.22"/>
+  </g>
+  <g id="LWPOLYLINE-20" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="667.23" x2="172.37" y2="667.23"/>
+  </g>
+  <g id="LWPOLYLINE-21" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="658.72" x2="172.37" y2="658.72"/>
+  </g>
+  <g id="LWPOLYLINE-22" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="739.51" x2="210.35" y2="842.13"/>
+  </g>
+  <g id="LWPOLYLINE-23" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="172.37" y1="739.51" x2="172.37" y2="842.13"/>
+  </g>
+  <g id="LWPOLYLINE-24" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="833.06" x2="172.37" y2="833.06"/>
+  </g>
+  <g id="LWPOLYLINE-25" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="824.55" x2="172.37" y2="824.55"/>
+  </g>
+  <g id="LWPOLYLINE-26" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="816.05" x2="172.37" y2="816.05"/>
+  </g>
+  <g id="LWPOLYLINE-27" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="807.54" x2="172.37" y2="807.54"/>
+  </g>
+  <g id="LWPOLYLINE-28" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="799.04" x2="172.37" y2="799.04"/>
+  </g>
+  <g id="LWPOLYLINE-29" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="790.54" x2="172.37" y2="790.54"/>
+  </g>
+  <g id="LWPOLYLINE-30" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="782.03" x2="172.37" y2="782.03"/>
+  </g>
+  <g id="LWPOLYLINE-31" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="773.53" x2="172.37" y2="773.53"/>
+  </g>
+  <g id="LWPOLYLINE-32" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="765.02" x2="172.37" y2="765.02"/>
+  </g>
+  <g id="LWPOLYLINE-33" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="756.52" x2="172.37" y2="756.52"/>
+  </g>
+  <g id="LWPOLYLINE-34" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="748.02" x2="172.37" y2="748.02"/>
+  </g>
+  <g id="LWPOLYLINE-35" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="739.51" x2="172.37" y2="739.51"/>
+  </g>
+  <g id="LWPOLYLINE-36" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="701.24" x2="172.37" y2="701.24"/>
+  </g>
+  <g id="LWPOLYLINE-37" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="692.74" x2="172.37" y2="692.74"/>
+  </g>
+  <g id="LWPOLYLINE-38" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="684.24" x2="172.37" y2="684.24"/>
+  </g>
+  <g id="LWPOLYLINE-39" data-name="LWPOLYLINE">
+    <line class="cls-4" x1="210.35" y1="675.73" x2="172.37" y2="675.73"/>
+  </g>
+  <g id="LINE-4" data-name="LINE">
+    <line class="cls-4" x1="214.18" y1="842.13" x2="168.68" y2="842.13"/>
+  </g>
+  <g id="LINE-5" data-name="LINE">
+    <line class="cls-4" x1="214.18" y1="859.13" x2="168.68" y2="859.13"/>
+  </g>
+  <g id="LINE-6" data-name="LINE">
+    <line class="cls-4" x1="168.68" y1="346.57" x2="214.18" y2="346.57"/>
+  </g>
+  <g id="LWPOLYLINE-40" data-name="LWPOLYLINE">
+    <polygon class="cls-4" points="1109.65 334.37 168.68 334.38 168.68 859.13 163.01 859.13 163.01 323.61 1109.14 323.61 1109.65 334.37"/>
+  </g>
+  <g id="LWPOLYLINE-41" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="884.15" y="349.75" width="85.32" height="2.13"/>
+  </g>
+  <g id="LWPOLYLINE-42" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="801.23" y="349.75" width="82.06" height="2.13"/>
+  </g>
+  <g id="LWPOLYLINE-43" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="718.32" y="349.75" width="82.06" height="2.13"/>
+  </g>
+  <g id="LWPOLYLINE-44" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="466.32" y="346.06" width="503.15" height="2.83"/>
+  </g>
+  <g id="LWPOLYLINE-45" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="635.41" y="349.75" width="82.06" height="2.13"/>
+  </g>
+  <g id="LWPOLYLINE-46" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="469.62" y="349.75" width="82.06" height="2.13"/>
+  </g>
+  <g id="LWPOLYLINE-47" data-name="LWPOLYLINE">
+    <rect class="cls-4" x="552.49" y="349.75" width="82.06" height="2.13"/>
+  </g>
+  <g id="LWPOLYLINE-48" data-name="LWPOLYLINE">
+    <polyline class="cls-4" points="172.37 739.51 172.37 607.7 210.35 607.7 210.35 739.51"/>
+  </g>
+  <g id="LWPOLYLINE-49" data-name="LWPOLYLINE">
+    <polyline class="cls-3" points="464.76 551.86 981.8 551.86 981.8 334.87 458.95 334.87 458.95 335.24"/>
+  </g>
+  <g id="LWPOLYLINE-50" data-name="LWPOLYLINE">
+    <polyline class="cls-3" points="464.76 549.02 978.97 549.02 978.97 337.7 460.65 337.7"/>
+  </g>
+  <g id="LWPOLYLINE-51" data-name="LWPOLYLINE">
+    <polyline class="cls-3" points="464.76 543.35 973.3 543.35 973.3 343.37 460.65 343.37"/>
+  </g>
+  <g id="LWPOLYLINE-52" data-name="LWPOLYLINE">
+    <polyline class="cls-3" points="243.94 606.77 243.94 546.81 238.27 546.81 238.27 1001.21 243.94 1001.21 243.94 606.77"/>
+  </g>
+  <g id="LWPOLYLINE-53" data-name="LWPOLYLINE">
+    <rect class="cls-3" x="280.97" y="686.14" width="36.28" height="21.69"/>
+  </g>
+  <g id="LWPOLYLINE-54" data-name="LWPOLYLINE">
+    <rect class="cls-3" x="280.97" y="649.29" width="36.28" height="21.69"/>
+  </g>
+  <g id="LWPOLYLINE-55" data-name="LWPOLYLINE">
+    <rect class="cls-3" x="280.97" y="612.44" width="36.28" height="21.69"/>
+  </g>
+  <g id="LWPOLYLINE-56" data-name="LWPOLYLINE">
+    <polyline class="cls-1" points="460.65 529.04 460.65 335.24 214.18 335.24 214.18 532.81"/>
+  </g>
+  <g id="LWPOLYLINE-57" data-name="LWPOLYLINE">
+    <polyline class="cls-1" points="457.82 529.04 457.82 338.07 217.01 338.07 217.01 529.04"/>
+  </g>
+  <g id="LWPOLYLINE-58" data-name="LWPOLYLINE">
+    <polyline class="cls-1" points="452.15 529.04 452.15 343.74 222.68 343.74 222.68 529.04"/>
+  </g>
+  <g id="LWPOLYLINE-59" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="258.4" y="842.32" width="75.97" height="81.64"/>
+  </g>
+  <g id="LWPOLYLINE-60" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="268.04" y="851.96" width="56.69" height="62.36"/>
+  </g>
+  <g id="LWPOLYLINE-61" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="265.2" y="577.71" width="116.93" height="145.28"/>
+  </g>
+  <g id="LWPOLYLINE-62" data-name="LWPOLYLINE">
+    <rect class="cls-2" x="214.18" y="529.04" width="250.58" height="491.44"/>
+  </g>
+  <g id="LWPOLYLINE-63" data-name="LWPOLYLINE">
+    <rect class="cls-2" x="217.01" y="531.87" width="244.91" height="485.77"/>
+  </g>
+  <g id="LWPOLYLINE-64" data-name="LWPOLYLINE">
+    <rect class="cls-2" x="222.68" y="537.54" width="233.57" height="474.43"/>
+  </g>
+</svg>
